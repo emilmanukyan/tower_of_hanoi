@@ -18,12 +18,18 @@ You can try to solve this problem by yourself [here](https://www.mathsisfun.com/
 You need to have **C Compiler(for example \` gcc or Clang)** for compiling `hanoi.c` file.
 
 ### Linux
+for gcc:
 ```
-sudo apt-get install fpc
+sudo apt install build-essential
 ```
+for clang:
+```
+sudo apt install clang 
+```
+
 ### MacOS
 ```
-sudo port install fpc
+brew install gcc
 ```
 ---
 #### Compile and run program with
