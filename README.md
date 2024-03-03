@@ -15,7 +15,7 @@ We can see that **7** steps were required to solve this simple example. This cor
 You can try to solve this problem by yourself [here](https://www.mathsisfun.com/games/towerofhanoi.html).
 
 ## About Solver
-You need to have **fpc (Free Pascal Compiler)** for compiling `hanoi.pas` file.
+You need to have **C Compiler(for example \` gcc or Clang)** for compiling `hanoi.c` file.
 
 ### Linux
 ```
