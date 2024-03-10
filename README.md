@@ -22,10 +22,6 @@ for gcc:
 ```
 sudo apt install build-essential
 ```
-for clang:
-```
-sudo apt install clang 
-```
 
 ### MacOS
 ```
