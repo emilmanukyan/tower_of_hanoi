@@ -18,7 +18,6 @@ You can try to solve this problem by yourself [here](https://www.mathsisfun.com/
 You need to have **C Compiler(for example \` gcc or Clang)** for compiling `hanoi.c` file.
 
 ### Linux
-for gcc:
 ```
 sudo apt install build-essential
 ```
